@@ -13,8 +13,6 @@ Watch the game in action: [Flappy Bird Gameplay](https://www.youtube.com/watch?v
 - [Controls](#controls)
 - [Scoring](#scoring)
 - [Save and Load Feature](#save-and-load-feature)
-- [Acknowledgments](#acknowledgments)
-- [License](#license)
 
 ## Features
 
