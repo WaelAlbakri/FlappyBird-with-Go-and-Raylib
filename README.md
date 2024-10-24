@@ -39,27 +39,16 @@ Watch the game in action: [Flappy Bird Gameplay](https://www.youtube.com/watch?v
 - **Go** programming language.
 - **Raylib** library for Go.
 
-You can install Raylib for Go by following the instructions from [Raylib-Go's GitHub page](https://github.com/gen2brain/raylib-go).
-
-## How to Run
-
-1. **Clone this repository**:
-   ```bash
-   git clone https://github.com/your-username/flappy-bird-with-go-and-raylib.git
-cd flappy-bird-with-go-and-raylib
-go run main.go
-Controls
+## Controls
 W: Move bird up (jump)
 S: Move bird down
 R: Restart the game (on Game Over)
 S: Save the game state
 L: Load the saved game state
-Scoring
-Pass through the pipes to earn +1 point.
-The score is displayed at the top-left corner of the screen.
-Save and Load Feature
-Press S to save the current game state (bird position, pipe position, score).
-Press L to load the saved game state.
-Acknowledgments
-This project was developed using Raylib-Go, a simple and easy-to-use library to enjoy game programming.
 
+## Scoring
+- Pass through the pipes to earn +1 point.
+- The score is displayed at the top-left corner of the screen.
+- Save and Load Feature
+- Press S to save the current game state (bird position, pipe position, score).
+- Press L to load the saved game state.
