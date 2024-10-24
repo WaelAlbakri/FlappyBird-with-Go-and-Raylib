@@ -4,7 +4,7 @@ This repository contains a recreation of the classic **Flappy Bird** game using 
 
 ## Game Preview
 
-Watch the game in action: [Flappy Bird Gameplay](https://www.youtube.com/watch?v=8teX-Kvcgfg)
+Watch the game in action: [Flappy Bird Gameplay](https://www.youtube.com/watch?v=RwHirAC7rYs)
 
 ## Table of Contents
 - [Features](#features)
