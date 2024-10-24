@@ -13,6 +13,7 @@ Watch the game in action: [Flappy Bird Gameplay](https://www.youtube.com/watch?v
 - [Controls](#controls)
 - [Scoring](#scoring)
 - [Save and Load Feature](#save-and-load-feature)
+- [Acknowledgments](#Acknowledgments)
 
 ## Features
 
@@ -50,3 +51,13 @@ L: Load the saved game state
 - Save and Load Feature
 - Press S to save the current game state (bird position, pipe position, score).
 - Press L to load the saved game state.
+
+## Acknowledgments
+
+The bird frames used in this game are sourced from the following site:
+
+- **Game Character Blue Flappy Bird Sprite Sheets**  
+  [OpenGameArt](https://opengameart.org/content/game-character-blue-flappy-bird-sprite-sheets)  
+  **Author:** [bevouliin.com](http://bevouliin.com)
+
+Thank you for providing these assets!
